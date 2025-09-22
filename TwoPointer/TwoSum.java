@@ -54,4 +54,5 @@ public static  int[] twoSum(int[] Number , int target)
   
 }
 
+// chatgpt link for this problem to understand :- https://chatgpt.com/share/68d0f515-e38c-8003-9482-45787632e150
 
