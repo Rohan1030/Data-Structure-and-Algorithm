@@ -34,4 +34,5 @@ public class MovesZeros {
   
 }
 
+
 //c:\Users\rkrk0\OneDrive\Pictures\Screenshots\Screenshot 2025-10-07 120505.png - photo for better understanding
