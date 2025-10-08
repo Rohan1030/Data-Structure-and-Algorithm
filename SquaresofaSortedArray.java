@@ -1,4 +1,6 @@
-public class Squares of a Sorted Array {
+package TwoPointer;
+import java.util.*;
+public class SquaresofaSortedArray {
 
   class Solution {
     public int[] sortedSquares(int[] nums) {
