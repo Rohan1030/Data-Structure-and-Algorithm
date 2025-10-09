@@ -2,8 +2,8 @@ package SlidingWindow;
 
 import java.util.HashMap;
 
-public class LongestSubstringWithoutRepeating {
-  class Solution {
+
+  class  LongestSubstringWithoutRepeating  {
 
     public int lengthOfLongestSubstring(String s) {
 
@@ -12,7 +12,7 @@ public class LongestSubstringWithoutRepeating {
         int n = s.length();
         int left=0;
         int maxLen = 0;
-        
+
         for(int right=0;right<n;right++)
         {
             char c = s.charAt(right);
@@ -37,4 +37,4 @@ public class LongestSubstringWithoutRepeating {
     }
 }
   
-}
+
