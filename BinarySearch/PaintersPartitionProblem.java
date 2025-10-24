@@ -1,4 +1,4 @@
-package PatternWise(DSA)/BinarySearch;
+package BinarySearch;
 import java.util.*;
 public class PaintersPartitionProblem {
     public static void main(String[] args) {
