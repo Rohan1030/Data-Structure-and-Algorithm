@@ -1,5 +1,5 @@
 //leetcode - 1186
-package Kadane;
+package Padho_With_Pratyush_Sheet.Kadane;
 
 class Solution {
     public int maximumSum(int[] arr) {

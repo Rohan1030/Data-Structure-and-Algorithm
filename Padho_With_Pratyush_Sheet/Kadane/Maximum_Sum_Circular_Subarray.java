@@ -1,5 +1,5 @@
 //Leetcode :- 918
-package Kadane;
+package Padho_With_Pratyush_Sheet.Kadane;
 
 class Solution {
     public int maxSubarraySumCircular(int[] nums) {

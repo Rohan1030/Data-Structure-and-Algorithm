@@ -1,4 +1,4 @@
-package Kadane;
+package Padho_With_Pratyush_Sheet.Kadane;
 
 class Solution {
     public int maxProduct(int[] nums) {
