@@ -34,5 +34,8 @@ class Solution {
 
         // Convert List to 2D array
         return res.toArray(new int[res.size()][]);
+        
+              //  Convert List to 2D array
+        return res.toArray(new int[0][]);
     }
 }
